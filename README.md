@@ -85,6 +85,7 @@ This suggests opportunities for:
 ## Dashboard Preview
 <img width="835" height="463" alt="Dashboard" src="https://github.com/user-attachments/assets/3c77872d-07a2-4d63-9b2d-21f48aabb13e" />
 
+<img width="835" height="463" alt="Dashboard" src="https://github.com/user-attachments/assets/4e0183c1-6377-40e6-8ac5-54150d20fc3d" />
 
 **Buruhani Mutebi**  
 Data Analyst
